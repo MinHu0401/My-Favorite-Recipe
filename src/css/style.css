@@ -108,13 +108,13 @@ body {
 	background-color: #EAF5E8;
 	border: 6px solid #FFFFFF;
 	text-align: center;
-	height: 180px;
+	height: 150px;
 	margin-top: 60px;
 }
 
 .hero h1 a {
 	font-family: 'DK Borrowdale', sans-serif;
-	font-size: 48px;
+	font-size: 40px;
 	color: #333333;
 	letter-spacing: 2%;
 	margin-top: 10px;
@@ -124,7 +124,7 @@ body {
 
 .hero p {
 	font-family: 'DK Borrowdale', sans-serif;
-	font-size: 24px;
+	font-size: 18px;
 	color: #333333;
 	letter-spacing: 2%;
 	margin-top: -15px;
@@ -185,12 +185,12 @@ body {
 }
 
 .blog-content {
-	max-width: calc(100% - 90px);
+	max-width: calc(100% - 80px);
 	margin: 0 auto;
 	font-family: 'Libre Baskerville', sans-serif;
-	font-size: 15px;
+	font-size: 14px;
 	color: black;
-	line-height: 2;
+	line-height: 1.8;
 }
 
 .blog-image {
@@ -216,6 +216,11 @@ body {
 	.blog-content p {
 		margin-bottom: 30px;
 		font-size: 16px;
+		line-height: 2;
+	}
+
+	.blog-content {
+		width: calc(100% - 90px);
 	}
 }
 
@@ -241,12 +246,12 @@ body {
 	border: 6px solid #FFFFFF;
 	margin-top: -20px;
 	text-align: center;
-	height: 150px;
+	height: 130px;
 }
 
 .recipe-heading h2 {
 	font-family: 'DK Borrowdale', serif;
-	font-size: 40px;
+	font-size: 32px;
 	color: #333333;
 	margin-top: 20px;
 	margin-bottom: -10px;
@@ -254,7 +259,7 @@ body {
 
 .recipe-heading p {
 	font-family: 'DK Borrowdale', serif;
-	font-size: 24px;
+	font-size: 20px;
 	color: #333333;
 }
 
@@ -267,7 +272,7 @@ body {
 
 .recipe-content h3 {
 	font-family: 'DK Borrowdale', serif;
-	font-size: 24px;
+	font-size: 20px;
 	color: #333333;
 	margin-top: 30px;
 	margin-bottom: 10px;
@@ -275,7 +280,7 @@ body {
 
 .recipe-list {
 	font-family: 'Libre Baskerville', serif;
-	font-size: 15px;
+	font-size: 14px;
 	color: black;
 	padding-left: 15px;
 	line-height: 1.5;
@@ -287,14 +292,14 @@ body {
 
 .walkthrough ol {
 	font-family: 'Libre Baskerville', serif;
-	font-size: 15px;
+	font-size: 14px;
 	color: black;
 	padding-left: 15px;
 }
 
 .walkthrough li {
 	margin-bottom: 15px;
-	line-height: 2
+	line-height: 1.8
 }
 
 .walkthrough img {
@@ -350,6 +355,7 @@ body {
 
 	.walkthrough li {
 		margin-bottom: 18px;
+		line-height: 2;
 	}
 }
 
