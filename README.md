@@ -9,5 +9,8 @@ My redesign focuses on capturing the *Stardew Valley* vibe—calm, welcoming, an
 ---
 
 ## 🔗 Links 
-- **Demo Page:** (https://minhu0401.github.io/My-Favorite-Recipe/)  
-- **Figma prototype:** (https://www.level1chef.com/stardew-valley-autumns-bounty/)  
+
+- **Demo Page:** [View Live Website](https://minhu0401.github.io/My-Favorite-Recipe/)
+- **Figma Prototype:** [View Prototype](https://www.figma.com/proto/dOPqoKrMrexHXSplu3cAOt/Recipe-Mockup_Min_Hu?node-id=1-102&t=1vJPm447VgngwWnh-1)
+- **Figma Dev Mode:** [View Dev Mode](https://www.figma.com/design/dOPqoKrMrexHXSplu3cAOt/Recipe-Mockup_Min_Hu?node-id=1-102&m=dev&t=1vJPm447VgngwWnh-1)
+
