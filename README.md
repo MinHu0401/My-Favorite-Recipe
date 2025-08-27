@@ -8,7 +8,6 @@ My redesign focuses on capturing the *Stardew Valley* vibe—calm, welcoming, an
 
 ---
 
-## 🔗 Links  
-- **Original Recipe:** [Autumn’s Bounty by Level 1 Chef](https://www.level1chef.com/stardew-valley-autumns-bounty/)  
-- **Demo Page:** (Add your GitHub Pages link here)  
-
+## 🔗 Links 
+- **Demo Page:** (https://minhu0401.github.io/My-Favorite-Recipe/)  
+- **Figma prototype:** (https://www.level1chef.com/stardew-valley-autumns-bounty/)  
